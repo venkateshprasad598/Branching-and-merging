@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-const a = "feature 2";
-=======
-const a = "Hello";
->>>>>>> feature2
+const a = "feature 1 changed";
+const b = "master";
